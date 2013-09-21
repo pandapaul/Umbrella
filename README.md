@@ -1,4 +1,4 @@
-AndroidBlank
+Umbrella
 ============
 
-Starter point for new Android project repos.
+Android application for clean and concise weather information.

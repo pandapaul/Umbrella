@@ -1,4 +1,4 @@
-package com.example.change_me;
+package com.geoandpaul.umbrella;
 
 import android.os.Bundle;
 import android.app.Activity;
